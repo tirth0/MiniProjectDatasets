@@ -1,0 +1,3 @@
+ground water
+amount of water through river and canals
+type of irrigation - drip/flood
