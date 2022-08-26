@@ -1,6 +1,5 @@
 {
   "anantapur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 34973.0,
@@ -16,7 +15,6 @@
     "Net Ground Water Availability for future use": 59410.09
   },
   "chittoor": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 18019.0,
@@ -32,7 +30,6 @@
     "Net Ground Water Availability for future use": 80858.36
   },
   "east godavari": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 237640.0,
@@ -48,7 +45,6 @@
     "Net Ground Water Availability for future use": 193656.03
   },
   "guntur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 271072.0,
@@ -64,7 +60,6 @@
     "Net Ground Water Availability for future use": 79051.91
   },
   "kadapa": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 53345.0,
@@ -80,7 +75,6 @@
     "Net Ground Water Availability for future use": 56568.63
   },
   "krishna": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 260350.0,
@@ -96,7 +90,6 @@
     "Net Ground Water Availability for future use": 98790.07
   },
   "kurnool": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 104110.0,
@@ -112,7 +105,6 @@
     "Net Ground Water Availability for future use": 94278.99
   },
   "prakasam": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 48878.0,
@@ -128,7 +120,6 @@
     "Net Ground Water Availability for future use": 94941.54
   },
   "srikakulam": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 205853.0,
@@ -144,7 +135,6 @@
     "Net Ground Water Availability for future use": 63919.93
   },
   "vizianagaram": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 126290.0,
@@ -160,7 +150,6 @@
     "Net Ground Water Availability for future use": 77587.51
   },
   "west godavari": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 256147.0,
@@ -176,7 +165,6 @@
     "Net Ground Water Availability for future use": 113241.04
   },
   "anjaw": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 3949.0,
@@ -192,7 +180,6 @@
     "Net Ground Water Availability for future use": null
   },
   "changlang": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 9585.0,
@@ -208,7 +195,6 @@
     "Net Ground Water Availability for future use": 23350.98
   },
   "dibang valley": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 1585.0,
@@ -224,7 +210,6 @@
     "Net Ground Water Availability for future use": null
   },
   "east kameng": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 8267.0,
@@ -240,7 +225,6 @@
     "Net Ground Water Availability for future use": 8766.2
   },
   "east siang": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 15137.0,
@@ -256,7 +240,6 @@
     "Net Ground Water Availability for future use": 68855.68
   },
   "kurung kumey": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 400.0,
@@ -272,7 +255,6 @@
     "Net Ground Water Availability for future use": null
   },
   "lohit": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 11654.0,
@@ -288,7 +270,6 @@
     "Net Ground Water Availability for future use": 78900.96
   },
   "lower dibang valley": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 11180.0,
@@ -304,7 +285,6 @@
     "Net Ground Water Availability for future use": 54973.98
   },
   "lower subansiri": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 8155.0,
@@ -320,7 +300,6 @@
     "Net Ground Water Availability for future use": 2550.48
   },
   "papum pare": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 9083.0,
@@ -336,7 +315,6 @@
     "Net Ground Water Availability for future use": 9239.72
   },
   "tawang": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 765.0,
@@ -352,7 +330,6 @@
     "Net Ground Water Availability for future use": null
   },
   "tirap": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 5002.0,
@@ -368,7 +345,6 @@
     "Net Ground Water Availability for future use": 7360.23
   },
   "upper siang": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 6625.0,
@@ -384,7 +360,6 @@
     "Net Ground Water Availability for future use": null
   },
   "upper subansiri": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 4169.0,
@@ -400,7 +375,6 @@
     "Net Ground Water Availability for future use": 844.74
   },
   "west kameng": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 866.0,
@@ -416,7 +390,6 @@
     "Net Ground Water Availability for future use": 3535.72
   },
   "west siang": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 25148.0,
@@ -432,7 +405,6 @@
     "Net Ground Water Availability for future use": 5715.34
   },
   "baksa": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 11562.0,
@@ -448,7 +420,6 @@
     "Net Ground Water Availability for future use": 101465.32
   },
   "barpeta": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 39756.0,
@@ -464,7 +435,6 @@
     "Net Ground Water Availability for future use": 109421.07
   },
   "bongaigaon": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 16142.0,
@@ -480,7 +450,6 @@
     "Net Ground Water Availability for future use": 46236.65
   },
   "cachar": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 8359.0,
@@ -496,7 +465,6 @@
     "Net Ground Water Availability for future use": 50985.94
   },
   "chirang": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 15372.0,
@@ -512,7 +480,6 @@
     "Net Ground Water Availability for future use": 84031.49
   },
   "darrang": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 14941.0,
@@ -528,7 +495,6 @@
     "Net Ground Water Availability for future use": 36839.32
   },
   "dhemaji": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 8915.0,
@@ -544,7 +510,6 @@
     "Net Ground Water Availability for future use": 181874.23
   },
   "dhubri": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 7488.0,
@@ -560,7 +525,6 @@
     "Net Ground Water Availability for future use": 86172.85
   },
   "dibrugarh": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 102.0,
@@ -576,7 +540,6 @@
     "Net Ground Water Availability for future use": 140417.47
   },
   "dima hasao": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 6405.0,
@@ -592,7 +555,6 @@
     "Net Ground Water Availability for future use": 3123.19
   },
   "goalpara": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 10448.0,
@@ -608,7 +570,6 @@
     "Net Ground Water Availability for future use": 71307.97
   },
   "golaghat": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 2430.0,
@@ -624,7 +585,6 @@
     "Net Ground Water Availability for future use": 97757.82
   },
   "hailakandi": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 6012.0,
@@ -640,7 +600,6 @@
     "Net Ground Water Availability for future use": 19586.39
   },
   "jorhat": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 3353.0,
@@ -656,7 +615,6 @@
     "Net Ground Water Availability for future use": 79116.95
   },
   "kamrup": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 14012.0,
@@ -672,7 +630,6 @@
     "Net Ground Water Availability for future use": 55258.35
   },
   "karbi anglong": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 10991.0,
@@ -688,7 +645,6 @@
     "Net Ground Water Availability for future use": 27920.37
   },
   "karimganj": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 4451.0,
@@ -704,7 +660,6 @@
     "Net Ground Water Availability for future use": 46295.22
   },
   "kokrajhar": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 24663.0,
@@ -720,7 +675,6 @@
     "Net Ground Water Availability for future use": 191036.05
   },
   "lakhimpur": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 15557.0,
@@ -736,7 +690,6 @@
     "Net Ground Water Availability for future use": 107715.92
   },
   "nagaon": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 16005.0,
@@ -752,7 +705,6 @@
     "Net Ground Water Availability for future use": 89105.22
   },
   "nalbari": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 5117.0,
@@ -768,7 +720,6 @@
     "Net Ground Water Availability for future use": 25045.54
   },
   "sivasagar": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 198.0,
@@ -784,7 +735,6 @@
     "Net Ground Water Availability for future use": 49606.31
   },
   "sonitpur": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 25932.0,
@@ -800,7 +750,6 @@
     "Net Ground Water Availability for future use": 172455.05
   },
   "tinsukia": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 6278.0,
@@ -816,7 +765,6 @@
     "Net Ground Water Availability for future use": 160285.02
   },
   "udalguri": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 28295.0,
@@ -832,7 +780,6 @@
     "Net Ground Water Availability for future use": 57236.98
   },
   "araria": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 20215.0,
@@ -848,7 +795,6 @@
     "Net Ground Water Availability for future use": 73848.23
   },
   "arwal": {
-    "Crop_Year": 2010,
     "Season": "Winter     ",
     "Crop": "rice",
     "Area": 25797.0,
@@ -864,7 +810,6 @@
     "Net Ground Water Availability for future use": 13022.22
   },
   "aurangabad": {
-    "Crop_Year": 2010,
     "Season": "Winter     ",
     "Crop": "rice",
     "Area": 125655.0,
@@ -880,7 +825,6 @@
     "Net Ground Water Availability for future use": 72357.9
   },
   "banka": {
-    "Crop_Year": 2010,
     "Season": "Winter     ",
     "Crop": "rice",
     "Area": 80170.0,
@@ -896,7 +840,6 @@
     "Net Ground Water Availability for future use": 30658.22
   },
   "begusarai": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 10512.0,
@@ -912,7 +855,6 @@
     "Net Ground Water Availability for future use": 30677.92
   },
   "bhagalpur": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 1185.0,
@@ -928,7 +870,6 @@
     "Net Ground Water Availability for future use": 51123.98
   },
   "bhojpur": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 482.0,
@@ -944,7 +885,6 @@
     "Net Ground Water Availability for future use": 37317.37
   },
   "buxar": {
-    "Crop_Year": 2010,
     "Season": "Winter     ",
     "Crop": "rice",
     "Area": 54724.0,
@@ -960,7 +900,6 @@
     "Net Ground Water Availability for future use": 28706.97
   },
   "darbhanga": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 32930.0,
@@ -976,7 +915,6 @@
     "Net Ground Water Availability for future use": 57915.45
   },
   "gaya": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 28.0,
@@ -992,7 +930,6 @@
     "Net Ground Water Availability for future use": 38745.06
   },
   "gopalganj": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 62233.0,
@@ -1008,7 +945,6 @@
     "Net Ground Water Availability for future use": 23024.45
   },
   "jamui": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 24.0,
@@ -1024,7 +960,6 @@
     "Net Ground Water Availability for future use": 25145.36
   },
   "jehanabad": {
-    "Crop_Year": 2010,
     "Season": "Winter     ",
     "Crop": "rice",
     "Area": 11502.0,
@@ -1040,7 +975,6 @@
     "Net Ground Water Availability for future use": 2280.46
   },
   "katihar": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 11293.0,
@@ -1056,7 +990,6 @@
     "Net Ground Water Availability for future use": 36331.5
   },
   "khagaria": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 9487.0,
@@ -1072,7 +1005,6 @@
     "Net Ground Water Availability for future use": 46434.23
   },
   "kishanganj": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 2356.0,
@@ -1088,7 +1020,6 @@
     "Net Ground Water Availability for future use": 55688.2
   },
   "lakhisarai": {
-    "Crop_Year": 2010,
     "Season": "Winter     ",
     "Crop": "rice",
     "Area": 3483.0,
@@ -1104,7 +1035,6 @@
     "Net Ground Water Availability for future use": 20659.0
   },
   "madhepura": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 16993.0,
@@ -1120,7 +1050,6 @@
     "Net Ground Water Availability for future use": 25234.8
   },
   "madhubani": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 42514.0,
@@ -1136,7 +1065,6 @@
     "Net Ground Water Availability for future use": 67029.18
   },
   "munger": {
-    "Crop_Year": 2010,
     "Season": "Summer     ",
     "Crop": "rice",
     "Area": 89.0,
@@ -1152,7 +1080,6 @@
     "Net Ground Water Availability for future use": 22988.52
   },
   "muzaffarpur": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 16857.0,
@@ -1168,7 +1095,6 @@
     "Net Ground Water Availability for future use": 36390.05
   },
   "nalanda": {
-    "Crop_Year": 2010,
     "Season": "Summer     ",
     "Crop": "rice",
     "Area": 90.0,
@@ -1184,7 +1110,6 @@
     "Net Ground Water Availability for future use": 25190.6
   },
   "nawada": {
-    "Crop_Year": 2010,
     "Season": "Winter     ",
     "Crop": "rice",
     "Area": 44412.0,
@@ -1200,7 +1125,6 @@
     "Net Ground Water Availability for future use": 27342.98
   },
   "patna": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 67.0,
@@ -1216,7 +1140,6 @@
     "Net Ground Water Availability for future use": 37411.34
   },
   "purnia": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 15293.0,
@@ -1232,7 +1155,6 @@
     "Net Ground Water Availability for future use": 49581.82
   },
   "rohtas": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 107.0,
@@ -1248,7 +1170,6 @@
     "Net Ground Water Availability for future use": 79936.95
   },
   "saharsa": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 21563.0,
@@ -1264,7 +1185,6 @@
     "Net Ground Water Availability for future use": 29888.01
   },
   "samastipur": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 35239.0,
@@ -1280,7 +1200,6 @@
     "Net Ground Water Availability for future use": 66457.14
   },
   "saran": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 5872.0,
@@ -1296,7 +1215,6 @@
     "Net Ground Water Availability for future use": 29757.9
   },
   "sheohar": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 7514.0,
@@ -1312,7 +1230,6 @@
     "Net Ground Water Availability for future use": 5509.43
   },
   "sitamarhi": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 27152.0,
@@ -1328,7 +1245,6 @@
     "Net Ground Water Availability for future use": 35392.79
   },
   "siwan": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 21982.0,
@@ -1344,7 +1260,6 @@
     "Net Ground Water Availability for future use": 38134.89
   },
   "supaul": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 22177.0,
@@ -1360,7 +1275,6 @@
     "Net Ground Water Availability for future use": 55431.73
   },
   "vaishali": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 4650.0,
@@ -1376,7 +1290,6 @@
     "Net Ground Water Availability for future use": 26764.35
   },
   "north goa": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 17314.0,
@@ -1392,7 +1305,6 @@
     "Net Ground Water Availability for future use": 4728.36
   },
   "south goa": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 13318.0,
@@ -1408,7 +1320,6 @@
     "Net Ground Water Availability for future use": 2264.45
   },
   "amreli": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "maize",
     "Area": 1600.0,
@@ -1424,7 +1335,6 @@
     "Net Ground Water Availability for future use": 45969.04
   },
   "anand": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 87700.0,
@@ -1440,7 +1350,6 @@
     "Net Ground Water Availability for future use": 35455.75
   },
   "bharuch": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 11400.0,
@@ -1456,7 +1365,6 @@
     "Net Ground Water Availability for future use": 32579.11
   },
   "bhavnagar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "maize",
     "Area": 3200.0,
@@ -1472,7 +1380,6 @@
     "Net Ground Water Availability for future use": 29617.87
   },
   "dang": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 18000.0,
@@ -1488,7 +1395,6 @@
     "Net Ground Water Availability for future use": 7021.77
   },
   "gandhinagar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 16000.0,
@@ -1504,7 +1410,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "junagadh": {
-    "Crop_Year": 2010,
     "Season": "Whole Year ",
     "Crop": "banana",
     "Area": 100.0,
@@ -1520,7 +1425,6 @@
     "Net Ground Water Availability for future use": 34628.52
   },
   "kheda": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 87300.0,
@@ -1536,7 +1440,6 @@
     "Net Ground Water Availability for future use": 33177.03
   },
   "mahesana": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 8200.0,
@@ -1552,7 +1455,6 @@
     "Net Ground Water Availability for future use": 900.7
   },
   "narmada": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 12000.0,
@@ -1568,7 +1470,6 @@
     "Net Ground Water Availability for future use": 19020.22
   },
   "navsari": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 62600.0,
@@ -1584,7 +1485,6 @@
     "Net Ground Water Availability for future use": 36211.93
   },
   "surat": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 60700.0,
@@ -1600,7 +1500,6 @@
     "Net Ground Water Availability for future use": 86042.67
   },
   "tapi": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 35400.0,
@@ -1616,7 +1515,6 @@
     "Net Ground Water Availability for future use": 23641.66
   },
   "vadodara": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 55100.0,
@@ -1632,7 +1530,6 @@
     "Net Ground Water Availability for future use": 41215.16
   },
   "valsad": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 58600.0,
@@ -1648,7 +1545,6 @@
     "Net Ground Water Availability for future use": 26223.54
   },
   "ambala": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 81869.0,
@@ -1664,7 +1560,6 @@
     "Net Ground Water Availability for future use": 7487.45
   },
   "bhiwani": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 21314.0,
@@ -1680,7 +1575,6 @@
     "Net Ground Water Availability for future use": 3604.59
   },
   "faridabad": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 9550.0,
@@ -1696,7 +1590,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "fatehabad": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 87580.0,
@@ -1712,7 +1605,6 @@
     "Net Ground Water Availability for future use": 123.84
   },
   "hisar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 44733.0,
@@ -1728,7 +1620,6 @@
     "Net Ground Water Availability for future use": 7248.29
   },
   "jhajjar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 31014.0,
@@ -1744,7 +1635,6 @@
     "Net Ground Water Availability for future use": 12892.03
   },
   "jind": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 113883.0,
@@ -1760,7 +1650,6 @@
     "Net Ground Water Availability for future use": 6927.32
   },
   "kaithal": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 158671.0,
@@ -1776,7 +1665,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "karnal": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 172698.0,
@@ -1792,7 +1680,6 @@
     "Net Ground Water Availability for future use": 2463.0
   },
   "kurukshetra": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 119783.0,
@@ -1808,7 +1695,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "mahendragarh": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 25.0,
@@ -1824,7 +1710,6 @@
     "Net Ground Water Availability for future use": 6124.0
   },
   "mewat": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 6177.0,
@@ -1840,7 +1725,6 @@
     "Net Ground Water Availability for future use": 2746.0
   },
   "palwal": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 33070.0,
@@ -1856,7 +1740,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "panchkula": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 9070.0,
@@ -1872,7 +1755,6 @@
     "Net Ground Water Availability for future use": 3909.0
   },
   "panipat": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 76905.0,
@@ -1888,7 +1770,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "rewari": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 2746.0,
@@ -1904,7 +1785,6 @@
     "Net Ground Water Availability for future use": 5597.0
   },
   "rohtak": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 39340.0,
@@ -1920,7 +1800,6 @@
     "Net Ground Water Availability for future use": 12624.89
   },
   "sirsa": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 61372.0,
@@ -1936,7 +1815,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "sonipat": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 93752.0,
@@ -1952,7 +1830,6 @@
     "Net Ground Water Availability for future use": 11710.0
   },
   "yamunanagar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 74578.0,
@@ -1968,7 +1845,6 @@
     "Net Ground Water Availability for future use": 1636.0
   },
   "bengaluru urban": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 1495.0,
@@ -1984,7 +1860,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "bidar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 4927.0,
@@ -2000,7 +1875,6 @@
     "Net Ground Water Availability for future use": 20729.31
   },
   "chikballapur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 6599.0,
@@ -2016,7 +1890,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "chitradurga": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 7941.0,
@@ -2032,7 +1905,6 @@
     "Net Ground Water Availability for future use": 3971.29
   },
   "davangere": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 76270.0,
@@ -2048,7 +1920,6 @@
     "Net Ground Water Availability for future use": 8358.28
   },
   "dharwad": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 27881.0,
@@ -2064,7 +1935,6 @@
     "Net Ground Water Availability for future use": 7514.91
   },
   "gadag": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 865.0,
@@ -2080,7 +1950,6 @@
     "Net Ground Water Availability for future use": 3397.35
   },
   "hassan": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 35785.0,
@@ -2096,7 +1965,6 @@
     "Net Ground Water Availability for future use": 27053.42
   },
   "haveri": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 44996.0,
@@ -2112,7 +1980,6 @@
     "Net Ground Water Availability for future use": 23491.5
   },
   "kodagu": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 35291.0,
@@ -2128,7 +1995,6 @@
     "Net Ground Water Availability for future use": 20349.54
   },
   "kolar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 7539.0,
@@ -2144,7 +2010,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "koppal": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 41275.0,
@@ -2160,7 +2025,6 @@
     "Net Ground Water Availability for future use": 23369.8
   },
   "mandya": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 60845.0,
@@ -2176,7 +2040,6 @@
     "Net Ground Water Availability for future use": 31873.82
   },
   "raichur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 100297.0,
@@ -2192,7 +2055,6 @@
     "Net Ground Water Availability for future use": 37490.74
   },
   "ramanagara": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 7884.0,
@@ -2208,7 +2070,6 @@
     "Net Ground Water Availability for future use": 1384.74
   },
   "udupi": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 47200.0,
@@ -2224,7 +2085,6 @@
     "Net Ground Water Availability for future use": 18005.27
   },
   "yadgir": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 52699.0,
@@ -2240,7 +2100,6 @@
     "Net Ground Water Availability for future use": 26579.59
   },
   "alappuzha": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 10445.22,
@@ -2256,7 +2115,6 @@
     "Net Ground Water Availability for future use": 26891.33
   },
   "ernakulam": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 3353.88,
@@ -2272,7 +2130,6 @@
     "Net Ground Water Availability for future use": 26741.34
   },
   "idukki": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 418.33,
@@ -2288,7 +2145,6 @@
     "Net Ground Water Availability for future use": 7747.6
   },
   "kannur": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 3054.17,
@@ -2304,7 +2160,6 @@
     "Net Ground Water Availability for future use": 21812.71
   },
   "kollam": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 960.36,
@@ -2320,7 +2175,6 @@
     "Net Ground Water Availability for future use": 15132.31
   },
   "kottayam": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 5463.56,
@@ -2336,7 +2190,6 @@
     "Net Ground Water Availability for future use": 22964.75
   },
   "kozhikode": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 144.09,
@@ -2352,7 +2205,6 @@
     "Net Ground Water Availability for future use": 11315.67
   },
   "malappuram": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 1088.27,
@@ -2368,7 +2220,6 @@
     "Net Ground Water Availability for future use": 11440.78
   },
   "palakkad": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 38647.59,
@@ -2384,7 +2235,6 @@
     "Net Ground Water Availability for future use": 25106.52
   },
   "pathanamthitta": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 112.56,
@@ -2400,7 +2250,6 @@
     "Net Ground Water Availability for future use": 16134.7
   },
   "thiruvananthapuram": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 1492.8,
@@ -2416,7 +2265,6 @@
     "Net Ground Water Availability for future use": 9367.15
   },
   "thrissur": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 3033.46,
@@ -2432,7 +2280,6 @@
     "Net Ground Water Availability for future use": 24243.27
   },
   "wayanad": {
-    "Crop_Year": 2010,
     "Season": "Summer     ",
     "Crop": "rice",
     "Area": 1834.85,
@@ -2448,7 +2295,6 @@
     "Net Ground Water Availability for future use": 17374.67
   },
   "ahmednagar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 7500.0,
@@ -2464,7 +2310,6 @@
     "Net Ground Water Availability for future use": 38775.64
   },
   "akola": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "maize",
     "Area": 1100.0,
@@ -2480,7 +2325,6 @@
     "Net Ground Water Availability for future use": 12853.2
   },
   "amravati": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 3800.0,
@@ -2496,7 +2340,6 @@
     "Net Ground Water Availability for future use": 18434.15
   },
   "beed": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 800.0,
@@ -2512,7 +2355,6 @@
     "Net Ground Water Availability for future use": 39590.95
   },
   "bhandara": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 181500.0,
@@ -2528,7 +2370,6 @@
     "Net Ground Water Availability for future use": 60731.32
   },
   "buldhana": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "maize",
     "Area": 66200.0,
@@ -2544,7 +2385,6 @@
     "Net Ground Water Availability for future use": 23043.24
   },
   "chandrapur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 114300.0,
@@ -2560,7 +2400,6 @@
     "Net Ground Water Availability for future use": 86024.26
   },
   "dhule": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 5000.0,
@@ -2576,7 +2415,6 @@
     "Net Ground Water Availability for future use": 27103.92
   },
   "gadchiroli": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 156800.0,
@@ -2592,7 +2430,6 @@
     "Net Ground Water Availability for future use": 77233.95
   },
   "gondia": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 178200.0,
@@ -2608,7 +2445,6 @@
     "Net Ground Water Availability for future use": 46068.04
   },
   "hingoli": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 1100.0,
@@ -2624,7 +2460,6 @@
     "Net Ground Water Availability for future use": 29356.05
   },
   "jalgaon": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "maize",
     "Area": 75000.0,
@@ -2640,7 +2475,6 @@
     "Net Ground Water Availability for future use": 20161.03
   },
   "jalna": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "maize",
     "Area": 60800.0,
@@ -2656,7 +2490,6 @@
     "Net Ground Water Availability for future use": 33882.56
   },
   "kolhapur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 111500.0,
@@ -2672,7 +2505,6 @@
     "Net Ground Water Availability for future use": 70530.02
   },
   "latur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 6300.0,
@@ -2688,7 +2520,6 @@
     "Net Ground Water Availability for future use": 27018.98
   },
   "nagpur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 71400.0,
@@ -2704,7 +2535,6 @@
     "Net Ground Water Availability for future use": 43300.72
   },
   "nanded": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 5200.0,
@@ -2720,7 +2550,6 @@
     "Net Ground Water Availability for future use": 69718.04
   },
   "nandurbar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 23400.0,
@@ -2736,7 +2565,6 @@
     "Net Ground Water Availability for future use": 17941.71
   },
   "nashik": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 59100.0,
@@ -2752,7 +2580,6 @@
     "Net Ground Water Availability for future use": 76211.0
   },
   "osmanabad": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 11200.0,
@@ -2768,7 +2595,6 @@
     "Net Ground Water Availability for future use": 26268.67
   },
   "parbhani": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 4000.0,
@@ -2784,7 +2610,6 @@
     "Net Ground Water Availability for future use": 34333.14
   },
   "pune": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 60900.0,
@@ -2800,7 +2625,6 @@
     "Net Ground Water Availability for future use": 52295.08
   },
   "raigad": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 124600.0,
@@ -2816,7 +2640,6 @@
     "Net Ground Water Availability for future use": 27475.71
   },
   "ratnagiri": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 78000.0,
@@ -2832,7 +2655,6 @@
     "Net Ground Water Availability for future use": 34388.3
   },
   "sangli": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 20200.0,
@@ -2848,7 +2670,6 @@
     "Net Ground Water Availability for future use": 50768.5
   },
   "satara": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 50800.0,
@@ -2864,7 +2685,6 @@
     "Net Ground Water Availability for future use": 31168.68
   },
   "sindhudurg": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 73900.0,
@@ -2880,7 +2700,6 @@
     "Net Ground Water Availability for future use": 14001.05
   },
   "solapur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 700.0,
@@ -2896,7 +2715,6 @@
     "Net Ground Water Availability for future use": 34029.08
   },
   "thane": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 136000.0,
@@ -2912,7 +2730,6 @@
     "Net Ground Water Availability for future use": 12898.65
   },
   "washim": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "maize",
     "Area": 400.0,
@@ -2928,7 +2745,6 @@
     "Net Ground Water Availability for future use": 20926.03
   },
   "east garo hills": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 10675.0,
@@ -2944,7 +2760,6 @@
     "Net Ground Water Availability for future use": 4308.97
   },
   "east jaintia hills": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 101.0,
@@ -2960,7 +2775,6 @@
     "Net Ground Water Availability for future use": 16130.89
   },
   "east khasi hills": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 275.0,
@@ -2976,7 +2790,6 @@
     "Net Ground Water Availability for future use": 9089.78
   },
   "south garo hills": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 4830.0,
@@ -2992,7 +2805,6 @@
     "Net Ground Water Availability for future use": 9118.2
   },
   "west garo hills": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 16478.0,
@@ -3008,7 +2820,6 @@
     "Net Ground Water Availability for future use": 28638.37
   },
   "west khasi hills": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 83.0,
@@ -3024,7 +2835,6 @@
     "Net Ground Water Availability for future use": 30068.4
   },
   "dimapur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 43950.0,
@@ -3040,7 +2850,6 @@
     "Net Ground Water Availability for future use": 10762.93
   },
   "kiphire": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 9920.0,
@@ -3056,7 +2865,6 @@
     "Net Ground Water Availability for future use": 6151.43
   },
   "kohima": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 17930.0,
@@ -3072,7 +2880,6 @@
     "Net Ground Water Availability for future use": 19369.51
   },
   "longleng": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 7420.0,
@@ -3088,7 +2895,6 @@
     "Net Ground Water Availability for future use": 5414.99
   },
   "mokokchung": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 17670.0,
@@ -3104,7 +2910,6 @@
     "Net Ground Water Availability for future use": 24700.24
   },
   "mon": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 12530.0,
@@ -3120,7 +2925,6 @@
     "Net Ground Water Availability for future use": 23526.38
   },
   "peren": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 11250.0,
@@ -3136,7 +2940,6 @@
     "Net Ground Water Availability for future use": 19383.25
   },
   "phek": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 13880.0,
@@ -3152,7 +2955,6 @@
     "Net Ground Water Availability for future use": 22923.99
   },
   "wokha": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 18070.0,
@@ -3168,7 +2970,6 @@
     "Net Ground Water Availability for future use": 27728.2
   },
   "zunheboto": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 12400.0,
@@ -3184,7 +2985,6 @@
     "Net Ground Water Availability for future use": 10383.82
   },
   "bargarh": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 59000.0,
@@ -3200,7 +3000,6 @@
     "Net Ground Water Availability for future use": 31778.72
   },
   "bhadrak": {
-    "Crop_Year": 2010,
     "Season": "Summer     ",
     "Crop": "rice",
     "Area": 2000.0,
@@ -3216,7 +3015,6 @@
     "Net Ground Water Availability for future use": 17021.46
   },
   "boudh": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 7000.0,
@@ -3232,7 +3030,6 @@
     "Net Ground Water Availability for future use": 12046.19
   },
   "cuttack": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 7000.0,
@@ -3248,7 +3045,6 @@
     "Net Ground Water Availability for future use": 38600.7
   },
   "deogarh": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 19000.0,
@@ -3264,7 +3060,6 @@
     "Net Ground Water Availability for future use": 14370.55
   },
   "dhenkanal": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 9000.0,
@@ -3280,7 +3075,6 @@
     "Net Ground Water Availability for future use": 26560.0
   },
   "gajapati": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 1000.0,
@@ -3296,7 +3090,6 @@
     "Net Ground Water Availability for future use": 14145.09
   },
   "ganjam": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 1000.0,
@@ -3312,7 +3105,6 @@
     "Net Ground Water Availability for future use": 50525.16
   },
   "jharsuguda": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 22000.0,
@@ -3328,7 +3120,6 @@
     "Net Ground Water Availability for future use": 11012.9
   },
   "kalahandi": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 73000.0,
@@ -3344,7 +3135,6 @@
     "Net Ground Water Availability for future use": 41249.61
   },
   "kandhamal": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 12000.0,
@@ -3360,7 +3150,6 @@
     "Net Ground Water Availability for future use": 25929.07
   },
   "kendrapara": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 3000.0,
@@ -3376,7 +3165,6 @@
     "Net Ground Water Availability for future use": 5445.19
   },
   "koraput": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 29000.0,
@@ -3392,7 +3180,6 @@
     "Net Ground Water Availability for future use": 36363.49
   },
   "malkangiri": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 13000.0,
@@ -3408,7 +3195,6 @@
     "Net Ground Water Availability for future use": 25047.83
   },
   "mayurbhanj": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 44000.0,
@@ -3424,7 +3210,6 @@
     "Net Ground Water Availability for future use": 85712.48
   },
   "nayagarh": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 2000.0,
@@ -3440,7 +3225,6 @@
     "Net Ground Water Availability for future use": 22910.73
   },
   "nuapada": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 39000.0,
@@ -3456,7 +3240,6 @@
     "Net Ground Water Availability for future use": 13893.34
   },
   "puri": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 1000.0,
@@ -3472,7 +3255,6 @@
     "Net Ground Water Availability for future use": 30908.76
   },
   "rayagada": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 8000.0,
@@ -3488,7 +3270,6 @@
     "Net Ground Water Availability for future use": 19881.98
   },
   "sambalpur": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 43000.0,
@@ -3504,7 +3285,6 @@
     "Net Ground Water Availability for future use": 44431.32
   },
   "sundargarh": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 93000.0,
@@ -3520,7 +3300,6 @@
     "Net Ground Water Availability for future use": 52231.44
   },
   "karaikal": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 573.0,
@@ -3536,7 +3315,6 @@
     "Net Ground Water Availability for future use": 5408.47
   },
   "mahe": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "banana",
     "Area": 24.0,
@@ -3552,7 +3330,6 @@
     "Net Ground Water Availability for future use": 65.37
   },
   "amritsar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 186000.0,
@@ -3568,7 +3345,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "barnala": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 105000.0,
@@ -3584,7 +3360,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "bathinda": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 107000.0,
@@ -3600,7 +3375,6 @@
     "Net Ground Water Availability for future use": 21994.43
   },
   "faridkot": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 101000.0,
@@ -3616,7 +3390,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "fatehgarh sahib": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 87000.0,
@@ -3632,7 +3405,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "gurdaspur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 204000.0,
@@ -3648,7 +3420,6 @@
     "Net Ground Water Availability for future use": 738.04
   },
   "hoshiarpur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 73000.0,
@@ -3664,7 +3435,6 @@
     "Net Ground Water Availability for future use": 10553.3
   },
   "jalandhar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 163000.0,
@@ -3680,7 +3450,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "kapurthala": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 118000.0,
@@ -3696,7 +3465,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "ludhiana": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 257000.0,
@@ -3712,7 +3480,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "mansa": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 78000.0,
@@ -3728,7 +3495,6 @@
     "Net Ground Water Availability for future use": 145.77
   },
   "moga": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 172000.0,
@@ -3744,7 +3510,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "muktsar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 111000.0,
@@ -3760,7 +3525,6 @@
     "Net Ground Water Availability for future use": 19645.96
   },
   "patiala": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 234000.0,
@@ -3776,7 +3540,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "sangrur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 272000.0,
@@ -3792,7 +3555,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "tarn taran": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 172000.0,
@@ -3808,7 +3570,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "ajmer": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 9.0,
@@ -3824,7 +3585,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "alwar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 378.0,
@@ -3840,7 +3600,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "banswara": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 27027.0,
@@ -3856,7 +3615,6 @@
     "Net Ground Water Availability for future use": 7699.23
   },
   "baran": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 8231.0,
@@ -3872,7 +3630,6 @@
     "Net Ground Water Availability for future use": 5458.8
   },
   "bharatpur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 1536.0,
@@ -3888,7 +3645,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "bhilwara": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 392.0,
@@ -3904,7 +3660,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "bikaner": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 37.0,
@@ -3920,7 +3675,6 @@
     "Net Ground Water Availability for future use": 3056.66
   },
   "bundi": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 22898.0,
@@ -3936,7 +3690,6 @@
     "Net Ground Water Availability for future use": 11977.46
   },
   "dausa": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "maize",
     "Area": 685.0,
@@ -3952,7 +3705,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "dungarpur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 13727.0,
@@ -3968,7 +3720,6 @@
     "Net Ground Water Availability for future use": 4337.56
   },
   "ganganagar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 8026.0,
@@ -3984,7 +3735,6 @@
     "Net Ground Water Availability for future use": 24928.04
   },
   "hanumangarh": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 22311.0,
@@ -4000,7 +3750,6 @@
     "Net Ground Water Availability for future use": 6364.93
   },
   "jaipur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "maize",
     "Area": 3515.0,
@@ -4016,7 +3765,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "jhalawar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 2294.0,
@@ -4032,7 +3780,6 @@
     "Net Ground Water Availability for future use": 3106.9
   },
   "jodhpur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "maize",
     "Area": 4.0,
@@ -4048,7 +3795,6 @@
     "Net Ground Water Availability for future use": 2908.99
   },
   "karauli": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 1832.0,
@@ -4064,7 +3810,6 @@
     "Net Ground Water Availability for future use": 202.68
   },
   "kota": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 13974.0,
@@ -4080,7 +3825,6 @@
     "Net Ground Water Availability for future use": 3723.78
   },
   "pali": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "maize",
     "Area": 21307.0,
@@ -4096,7 +3840,6 @@
     "Net Ground Water Availability for future use": 1022.26
   },
   "pratapgarh": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 1324.0,
@@ -4112,7 +3855,6 @@
     "Net Ground Water Availability for future use": 886.18
   },
   "rajsamand": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 86.0,
@@ -4128,7 +3870,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "sawai madhopur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 646.0,
@@ -4144,7 +3885,6 @@
     "Net Ground Water Availability for future use": 0.0
   },
   "sirohi": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "maize",
     "Area": 28948.0,
@@ -4160,7 +3900,6 @@
     "Net Ground Water Availability for future use": 1618.03
   },
   "tonk": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 2.0,
@@ -4176,7 +3915,6 @@
     "Net Ground Water Availability for future use": 2833.47
   },
   "udaipur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 4881.0,
@@ -4192,7 +3930,6 @@
     "Net Ground Water Availability for future use": 1960.28
   },
   "east district": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 4950.0,
@@ -4208,7 +3945,6 @@
     "Net Ground Water Availability for future use": 44347.94
   },
   "north district": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 1000.0,
@@ -4224,7 +3960,6 @@
     "Net Ground Water Availability for future use": 78863.29
   },
   "south district": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 2220.0,
@@ -4240,7 +3975,6 @@
     "Net Ground Water Availability for future use": 6979.22
   },
   "west district": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 3970.0,
@@ -4256,7 +3990,6 @@
     "Net Ground Water Availability for future use": 20537.83
   },
   "dhalai": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 31885.0,
@@ -4272,7 +4005,6 @@
     "Net Ground Water Availability for future use": 16236.22
   },
   "north tripura": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 47309.0,
@@ -4288,7 +4020,6 @@
     "Net Ground Water Availability for future use": 9446.63
   },
   "south tripura": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 82951.0,
@@ -4304,7 +4035,6 @@
     "Net Ground Water Availability for future use": 16724.65
   },
   "west tripura": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 102413.0,
@@ -4320,7 +4050,6 @@
     "Net Ground Water Availability for future use": 13695.47
   },
   "dehradun": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 11193.0,
@@ -4336,7 +4065,6 @@
     "Net Ground Water Availability for future use": 38797.9
   },
   "haridwar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 18237.0,
@@ -4352,7 +4080,6 @@
     "Net Ground Water Availability for future use": 32022.55
   },
   "nainital": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "rice",
     "Area": 12543.0,
@@ -4368,7 +4095,6 @@
     "Net Ground Water Availability for future use": 6362.34
   },
   "bankura": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 12991.0,
@@ -4384,7 +4110,6 @@
     "Net Ground Water Availability for future use": 84426.38
   },
   "birbhum": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 2619.0,
@@ -4400,7 +4125,6 @@
     "Net Ground Water Availability for future use": 72601.72
   },
   "coochbehar": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 1733.0,
@@ -4416,7 +4140,6 @@
     "Net Ground Water Availability for future use": 188411.84
   },
   "darjeeling": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 3451.0,
@@ -4432,7 +4155,6 @@
     "Net Ground Water Availability for future use": 43833.19
   },
   "hooghly": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 4474.0,
@@ -4448,7 +4170,6 @@
     "Net Ground Water Availability for future use": 59850.52
   },
   "howrah": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 753.0,
@@ -4464,7 +4185,6 @@
     "Net Ground Water Availability for future use": 18653.16
   },
   "jalpaiguri": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 30782.0,
@@ -4480,7 +4200,6 @@
     "Net Ground Water Availability for future use": 264315.12
   },
   "murshidabad": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 11867.0,
@@ -4496,7 +4215,6 @@
     "Net Ground Water Availability for future use": 22215.54
   },
   "nadia": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 48392.0,
@@ -4512,7 +4230,6 @@
     "Net Ground Water Availability for future use": 14914.26
   },
   "purulia": {
-    "Crop_Year": 2010,
     "Season": "Autumn     ",
     "Crop": "rice",
     "Area": 122.0,
@@ -4528,7 +4245,6 @@
     "Net Ground Water Availability for future use": 64079.31
   },
   "nagaur": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "maize",
     "Area": 49.0,
@@ -4544,7 +4260,6 @@
     "Net Ground Water Availability for future use": 631.27
   },
   "jamnagar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "maize",
     "Area": 6300.0,
@@ -4560,7 +4275,6 @@
     "Net Ground Water Availability for future use": 26775.88
   },
   "patan": {
-    "Crop_Year": 2010,
     "Season": "Rabi       ",
     "Crop": "maize",
     "Area": 2300.0,
@@ -4576,7 +4290,6 @@
     "Net Ground Water Availability for future use": 611.05
   },
   "porbandar": {
-    "Crop_Year": 2010,
     "Season": "Rabi       ",
     "Crop": "maize",
     "Area": 500.0,
@@ -4592,7 +4305,6 @@
     "Net Ground Water Availability for future use": 5413.36
   },
   "rajkot": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "maize",
     "Area": 6000.0,
@@ -4608,7 +4320,6 @@
     "Net Ground Water Availability for future use": 51777.66
   },
   "barmer": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "maize",
     "Area": 1.0,
@@ -4624,7 +4335,6 @@
     "Net Ground Water Availability for future use": 1111.73
   },
   "sikar": {
-    "Crop_Year": 2010,
     "Season": "Kharif     ",
     "Crop": "maize",
     "Area": 14.0,
@@ -4638,5 +4348,20 @@
     "rainfall": 87.75953857,
     "Total Current Annual Ground Water Extraction": 49530.44,
     "Net Ground Water Availability for future use": 342.71
+  },
+  "mumbai": {
+    "Season": "Kharif",
+    "Crop": "banana",
+    "Area": 9110000.0,
+    "Production": 634121.0,
+    "N": 90,
+    "P": 42,
+    "K": 43,
+    "temperature": 20.879744,
+    "humidity": 82.002744,
+    "ph": 6.502985,
+    "rainfall": 202.935536,
+    "Total Current Annual Ground Water Extraction": 398000.31,
+    "Net Ground Water Availability for future use": 53550.23
   }
 }
